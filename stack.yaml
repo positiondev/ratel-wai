@@ -1,3 +1,9 @@
+packages:
+- location:
+    git: https://github.com/positiondev/ratel
+    commit: 575bd233ec87230c29b2fa6bc70407cdee56cdd9
+  extra-dep: true
 extra-deps:
-- ratel-0.3.0
+- ratel-0.4.0
 resolver: nightly-2016-07-15
+
