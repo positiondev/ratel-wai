@@ -14,11 +14,11 @@ library:
   - case-insensitive ==1.2.*
   - containers ==0.5.*
   - http-client >=0.4.30 && <0.6
-  - ratel ==0.3.*
+  - ratel ==0.4.*
   - wai ==3.2.*
   source-dirs: library
 license: MIT
 maintainer: Taylor Fausak
 name: ratel-wai
 synopsis: Notify Honeybadger about exceptions via a WAI middleware.
-version: '0.2.0'
+version: '0.3.0'
